@@ -31,7 +31,7 @@ class Developer:
         }
 ```
 
-- 📧 **Email**: sukhyun1218@naver.com
+- 📧 **Email**: sukhyun1218@gmail.com
 - 📱 **Phone**: 010-5499-0250
 - 🎓 **전공**: 로봇공학 → 자동화공학 (문과 → 이과 전환, GPA 2.X → 4.2 달성)
 
