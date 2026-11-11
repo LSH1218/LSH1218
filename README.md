@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Robotics%20%26%20Embedded&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Device%20Integration%20%7C%20Field%20Testing&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Robotics%20%C2%B7%20Embedded&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Device%20Integration%20%7C%20Field%20Testing&descAlignY=65&descAlign=50)
 
 <div align="center">
 
@@ -151,18 +151,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![LSH1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSH1218&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=c,html,css)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSH1218&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook)](https://github.com/LSH1218)
-
-</div>
-
----
-
 ### 🌱 Tech Journey
 
 > **문과 출신에서, 직접 만들고 확인하는 엔지니어로**
@@ -233,15 +221,15 @@
 **🔧 현장 테스트**
 
 예상과 다른 동작의<br>
-원인을 재현하고 좁히기
+원인 재현하고 좁히기
 
 </td>
 <td align="center" width="33%">
 
 **📝 기록과 공유**
 
-다음 사람이 이어받을 수<br>
-있는 점검 방법 남기기
+다음 사람이 이어받을<br>
+점검 방법 남기기
 
 </td>
 </tr>
